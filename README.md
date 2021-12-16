@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 <p align="left"> 
   <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=hecuhecu&theme=cobalt&show_icons=ture&count_private=true" />
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hecuhecu&layout=compact&show_icons=true&theme=cobalt&count_private=true" />
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hecuhecu&layout=compact&show_icons=true&theme=cobalt" />
 </p>
