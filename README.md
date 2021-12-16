@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hecuhecu&theme=cobalt&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p align="left"> 
-  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=hecuhecu&theme=cobalt&show_icons=ture&count_private=true" />
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hecuhecu&layout=compact&show_icons=true&theme=cobalt&count_private=true" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=hecuhecu&theme=cobalt&show_icons=ture&count_private=true" />
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hecuhecu&layout=compact&show_icons=true&theme=cobalt&count_private=true" />
 </p>
