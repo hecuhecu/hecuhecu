@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hecuhecu)](https://github.com/anuraghazra/github-readme-stats) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hecuhecu&hide=contribs,prs)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hecuhecu&hide=contribs,prs) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hecuhecu&count_private=true)
